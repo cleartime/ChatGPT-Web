@@ -1,8 +1,5 @@
 <script setup lang='ts'>
-import { ref } from 'vue'
-import { HoverButton, Setting, SvgIcon, UserAvatar } from '@/components/common'
-
-const show = ref(false)
+import { UserAvatar } from '@/components/common'
 </script>
 
 <template>
